@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*- 
-"""
-@Time：2019/10/13
-@Author: hhzjj
-@Description：
-"""
 from random import choice
 
 
