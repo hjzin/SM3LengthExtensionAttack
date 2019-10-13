@@ -13,3 +13,4 @@
 - [my_func.py](https://github.com/hjzin/SM3LengthExtensionAttack/blob/master/myfunc.py)：sm3实现部分用到的一些辅助函数，和python库中的一样，未作修改
 
 实现的具体细节见[实验文档.md](https://github.com/hjzin/SM3LengthExtensionAttack/blob/master/实验文档.md)
+
